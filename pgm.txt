@@ -1,0 +1,13 @@
+class Main {
+  public static void main(String[] args) {
+   int n=5;
+if(n>=20000)
+System.out.println("free trolly suitcase");
+else if(n>=10000)
+System.out.println("free travel bag");
+else if(n>=5000)
+System.out.println("free backpck");
+else if(n<5000)
+System.out.println("collect money even for cover we give");
+}
+}
